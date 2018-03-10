@@ -1,0 +1,6 @@
+C:\Repos\project-400-litecoin\LitecoinInterface\Szenmu.Litecoin\bin\Debug\netcoreapp2.0\Szenmu.Litecoin.deps.json
+C:\Repos\project-400-litecoin\LitecoinInterface\Szenmu.Litecoin\bin\Debug\netcoreapp2.0\Szenmu.Litecoin.dll
+C:\Repos\project-400-litecoin\LitecoinInterface\Szenmu.Litecoin\obj\Debug\netcoreapp2.0\Szenmu.Litecoin.csprojResolveAssemblyReference.cache
+C:\Repos\project-400-litecoin\LitecoinInterface\Szenmu.Litecoin\obj\Debug\netcoreapp2.0\Szenmu.Litecoin.csproj.CoreCompileInputs.cache
+C:\Repos\project-400-litecoin\LitecoinInterface\Szenmu.Litecoin\obj\Debug\netcoreapp2.0\Szenmu.Litecoin.AssemblyInfoInputs.cache
+C:\Repos\project-400-litecoin\LitecoinInterface\Szenmu.Litecoin\obj\Debug\netcoreapp2.0\Szenmu.Litecoin.AssemblyInfo.cs
